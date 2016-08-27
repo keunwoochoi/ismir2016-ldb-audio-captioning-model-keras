@@ -19,15 +19,15 @@ if recommendation.type == playlist:
 ```
 E.g.,
 
- * Playfully, silly or sublime--this is the sound of Paul in love. (for PaulMcCartney Ballads playlist)
- * Just the right blend of chilled-out acoustic songs to work, relax, and dream to (for Your Coffee Break playlist)
+ * Playfully, silly or sublime--this is the sound of Paul in love. (for [PaulMcCartney Ballads playlist, Apple music](https://itunes.apple.com/us/playlist/michael-jackson-love-songs/idpl.8058d87c60b647a7bc81185b9f59e4c2))
+ * Just the right blend of chilled-out acoustic songs to work, relax, and dream to (for [Your Coffee Break, Spotify playlist](https://open.spotify.com/user/spotify_uk_/playlist/48910w3L1DNiqvMHbUfZyY))
  
 ### Backgrounds
 #### Previously,
 
- * Tags prediction for track *(Eck et al., 2008)*
- * Tags for playlists *(Fields et al., 2010)*
- * Visual avatars for tracks *(Bogdanov et al, 2013)*
+ * Tags prediction for track *[(Eck et al., 2008)](http://papers.nips.cc/paper/3370-automatic-generation-of-social-tags-for-music-recommendation)*
+ * Tags for playlists *[(Fields et al., 2010)](http://research.gold.ac.uk/8793/)*
+ * Visual avatars for tracks *[(Bogdanov et al, 2013)](https://scholar.google.co.kr/scholar?cluster=14015036933742269998&hl=en&as_sdt=0,33)*
 
 #### Some techniques we can use
  * **RNNs** for sequence modelling
@@ -51,7 +51,5 @@ E.g.,
 
 ### The results
 I don't have a proper result and looking for dataset. Anybody help? 
- 
 
-### Reference
-TODO
+
